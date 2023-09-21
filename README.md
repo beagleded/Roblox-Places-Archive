@@ -4,4 +4,6 @@
 
 This is a archive for Roblox Places and games.
 The dates can range to 2006 to all the way to 2023, or newer. Things are expected to change when it's THIS early in development.
-Download the games by browsing the repo.
+Download the games by browsing the repo. There can be duplicates or broken games.
+
+**⚠️ THESE GAMES AREN'T TESTED, OPEN AT YOUR OWN RISK. ⚠️**
